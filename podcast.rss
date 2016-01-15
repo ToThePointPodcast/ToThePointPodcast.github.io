@@ -42,6 +42,8 @@
 
 <itunes:subtitle>Episode 1</itunes:subtitle>
 
+<itunes:explicit>yes</itunes:explicit>
+
 <itunes:summary>This week Gavin and Robbie recap the Seattle Seahawks vs. Minnesota Vikings game, go over recent headlines and have a special surprise guest.</itunes:summary>
 
 <itunes:image href="http://ToThePointPodcast.github.com/ttpLogo.jpg" />
