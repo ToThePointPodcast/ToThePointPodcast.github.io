@@ -12,13 +12,13 @@
 
 <copyright>&#x2117; &amp; &#xA9; 2016 Robbie Griffin &amp; Gavin Reim</copyright>
 
-<itunes:subtitle>A show about everything</itunes:subtitle>
+<itunes:subtitle>Welcome to TTP</itunes:subtitle>
 
 <itunes:author>Robbie Griffin &amp; Gavin Reim</itunes:author>
 
-<itunes:summary>All About Everything is a show about everything. Each week we dive into any subject known to man and talk about it as much as we can. Look for our podcast in the Podcasts app or in the iTunes Store</itunes:summary>
+<itunes:summary>Weekly sports podcast hosted by Gavin Reim &amp; Robbie Griffin where they get straight to the point.</itunes:summary>
 
-<description>All About Everything is a show about everything. Each week we dive into any subject known to man and talk about it as much as we can. Look for our podcast in the Podcasts app or in the iTunes Store</description>
+<description>Weekly sports podcast hosted by Gavin Reim &amp; Robbie Griffin where they get straight to the point.</description>
 
 <itunes:owner>
 
@@ -34,23 +34,23 @@
 
 <item>
 
-<title>Socket Wrench Shootout</title>
+<title>Welcome to TTP</title>
 
-<itunes:author>Jane Doe</itunes:author>
+<itunes:author>Robbie Griffin &amp; Gavin Reim</itunes:author>
 
-<itunes:subtitle>Comparing socket wrenches is fun!</itunes:subtitle>
+<itunes:subtitle>Episode 1</itunes:subtitle>
 
-<itunes:summary>This week we talk about metric vs. Old English socket wrenches. Which one is better? Do you really need both? Get all of your answers here.</itunes:summary>
+<itunes:summary>This week Gavin and Robbie recap the Seattle Seahawks vs. Minnesota Vikings game, go over recent headlines and have a special surprise guest.</itunes:summary>
 
-<itunes:image href="http://example.com/podcasts/everything/AllAboutEverything/Episode2.jpg" />
+<itunes:image href="http://ToThePointPodcast.github.com/ttpLogo.jpg" />
 
-<enclosure url="http://example.com/podcasts/everything/AllAboutEverythingEpisode2.mp3" length="5650889" type="audio/mpeg" />
+<enclosure url="https://googledrive.com/host/0B_D5ffQNNMgcSlBkV1hveS14VEU/ToThePointEp1.mp3" length="12012064" type="audio/mp3" />
 
-<guid>http://example.com/podcasts/archive/aae20140608.mp3</guid>
+<guid>https://googledrive.com/host/0B_D5ffQNNMgcSlBkV1hveS14VEU/ToThePointEp1.mp3</guid>
 
-<pubDate>Wed, 8 Jun 2014 19:00:00 GMT</pubDate>
+<pubDate>Fri, 15 Jun 2016 00:00:00 GMT</pubDate>
 
-<itunes:duration>4:34</itunes:duration>
+<itunes:duration>25:01</itunes:duration>
 
 </item>
 
