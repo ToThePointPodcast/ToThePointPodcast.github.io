@@ -30,7 +30,9 @@
 
 <itunes:image href="http://tothepointpodcast.github.io/ttpLogo.jpg" />
 
-<itunes:category text="Culture"></itunes:category>
+<itunes:category text="Culture">
+  <itunes:category text="Education" />
+</itunes:category>
 
 <item>
 
